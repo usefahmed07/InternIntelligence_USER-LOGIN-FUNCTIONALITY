@@ -23,52 +23,11 @@ Go to the link below for installation if you don't have installed yet.
 <img width="1597" height="676" alt="image" src="https://github.com/user-attachments/assets/2a664aaa-01e0-4ec0-a250-a43ff46ed957" />
 
 
+## Technology Used
 
+This project uses the following technologies:
 
-⚙️ Installation & Getting Started
-1. Clone the Repository
-git clone <repository-url>
-cd <project-folder>
-
-2. Frontend Setup
-cd frontend
-npm install        # Install dependencies
-npm run dev        # Start development server
-
-
-Open http://localhost:5173
- in your browser.
-
-3. Backend Setup
-cd backend
-npm install        # Install dependencies
-npm start          # Start backend server
-# or
-nodemon index.js   # If using nodemon for auto-restart
-
-
-Once the backend server is running, it will connect to MongoDB to handle authentication requests.
-
-# Technology Stack
-
-Frontend: React, React Router, Bootstrap
-
-Backend: Node.js, Express.js
-
-Database: MongoDB (NoSQL)
-
-Styling: Bootstrap for responsive design
-
-# Features
-
-User registration (SignUp) with input validation
-
-User login (SignIn) with authentication
-
-Password hashing for security
-
-Protected routes accessible only to authenticated users
-
-Responsive UI using Bootstrap
-
-Seamless integration between frontend and backend.
+- [React](https://reactjs.org) and [React Router](https://reacttraining.com/react-router/) for frontend
+- [Express](http://expressjs.com/) and [Node](https://nodejs.org/en/) for the backend
+- [MongoDB](https://www.mongodb.com/) for the database
+- [Bootstrap](https://getbootstrap.com/) for styling
