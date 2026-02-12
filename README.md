@@ -17,3 +17,14 @@ N: NodeJS (Backend Runtime)
 <img width="1597" height="676" alt="image" src="https://github.com/user-attachments/assets/2a664aaa-01e0-4ec0-a250-a43ff46ed957" />
 
 
+
+
+# Installation & Getting Started 
+1. Clone the Repository
+git clone <repository-url>
+cd <project-folder>
+2. Frontend Setup
+cd frontend
+npm install        # Install dependencies
+npm run dev        # Start development server
+
